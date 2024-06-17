@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+idea/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+Currency converter using external API.iml
+*.xml
+External Libraries/
+Scractches and console
